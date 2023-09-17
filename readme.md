@@ -30,7 +30,7 @@ Some teachers like to fill jars with marbles (or other items) as their students 
         * Click on any marble to see more info about how it was earned (date, description of positive thing).
     * It's up to the teacher to decide on an incentive earned when the marbles reach the reward bar (finish line).
 * Marbles have physics!  
-    * If you know all the marbles out of the jar -- just reload!
+    * If you knock all the marbles out of the jar -- just reload!
 * Basically, a data visualizing thing -- Visualize a Google Sheet that tracks positive classroom behaviors shown as a marble jar!  
  
 ## Authors
