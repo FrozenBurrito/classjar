@@ -13,10 +13,11 @@ Some teachers like to fill jars with marbles (or other items) as their students 
 ## Setup Your Own
 
 * Step 1:  Create your own copy of [this Google Sheet](https://docs.google.com/spreadsheets/d/1NcR-UuokzipcBvLNYg9BrT2SFD-EMqMmu1lIQR7JQ_s/edit?usp=sharing).
+    * Avoid changing the column headings (date, size, desc).
 * Step 2:  Get (copy) a public share link for your newly copied Google Sheet.  
-* Step 3:  Access the [live version of classjar here]().  
-* Step 4:  Paste your public share link into the [live version of classjar]() and fill the jar!
-* Step 5:  Implement, explain, announce reward, change sheet as appropriate (remove demo entries, etc).
+* Step 3:  Access the [live version of classjar here](https://frozenburrito.github.io/classjar/).  
+* Step 4:  Paste your public share link into the [live version of classjar](https://frozenburrito.github.io/classjar/) and fill the jar!
+* Step 5:  Implement, explain, announce reward, change sheet as appropriate (remove demo entries, etc).  
 
 ## Description & More Info
 
