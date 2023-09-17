@@ -1,0 +1,52 @@
+<html lang="en">
+  <head>
+    <title>ClassJar</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="lib/matter.js"></script>
+    <script src="lib/publicgooglesheetsparser.min.js"></script>
+  </head>
+  <body>
+    <div class="form-wrapper">
+      <h1>classjar v0.1</h1>
+      <form>
+        <div class="jar-div">
+          <div class="row">
+            <div class="box" id="matterjs"></div>
+          </div>
+        </div>
+      
+        <div class="form-item">
+          <br><input type="text" class="use-keyboard-input" id="sheet_url" required="required" placeholder="Your Public Google Sheet Link"></input>
+        </div>
+        
+        <div class="button-panel">
+          <div>
+            <input type="button" class="submitbutton" value="Fill it up (or refresh)!" onClick="javascript:fillJar();">     
+            </input>
+            <input type="button" class="resetbutton" value="Load Example Data" onClick="javascript:loadExample();">     
+            </input>
+          </div>
+        </div>
+      </form>
+  
+      <div class="form-footer">
+        <br><p>by jmo 
+          - <a href="https://docs.google.com/spreadsheets/d/1NcR-UuokzipcBvLNYg9BrT2SFD-EMqMmu1lIQR7JQ_s/edit?usp=sharing" target="_blank">example google sheet (template)</a>  
+          - <a href="https://www.github.com/frozenburrito/classjar" target="_blank" >Github Repo with Instructions</a>
+        </p><br>
+      </div>
+      
+    </div>
+    <div id="snackbar-root">
+      <div id="snackbar">
+        <p id="date"></p>
+        <p id="desc"></p>
+      </div>
+    </div>
+  </body>
+  <script src="classjar.js"></script>
+</html>
+
+
+
