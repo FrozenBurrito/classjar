@@ -135,7 +135,7 @@ form {
   position: fixed;
   left: 0;
   right: 0;
-  bottom: 95%;
+  bottom: 92%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -150,7 +150,7 @@ form {
   border-radius: 10px; /* Rounded borders */
   padding: 16px; /* Padding */
   z-index: 1; /* Add a z-index if needed */
-  opacity: 75%;
+  opacity: 65%;
 }
 
 /* Show the snackbar when clicking on a button (class added with JavaScript) */
