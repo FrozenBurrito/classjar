@@ -35,7 +35,7 @@ Some teachers like to fill jars with marbles (or other items) as their students 
  
 ## Authors
 
-Jon Morris, [frozenburrito](https://github.com/frozenburrito)
+J Mo, [frozenburrito](https://github.com/frozenburrito)
 
 ## Version History
 * 0.1
